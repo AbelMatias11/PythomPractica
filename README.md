@@ -1,2 +1,2 @@
-# PythomPractica
-Pythom Practica
+# PythonPractica
+Python Practica
